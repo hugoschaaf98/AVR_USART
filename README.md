@@ -1,2 +1,2 @@
-# AVR_USART
+# AVR USART
 use the usart of avr. Simple use, asyncronous only.
